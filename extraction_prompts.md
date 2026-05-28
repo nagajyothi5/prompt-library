@@ -26,3 +26,5 @@ Extract product details from the text and return in JSON format:
   "price": "",
   "category": ""
 }
+```
+**Text:** "Nike Air Zoom Pegasus costs $120 and is a running shoe."

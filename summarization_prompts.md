@@ -1,8 +1,3 @@
-
----
-
-## 📄 summarization_prompts.md
-```markdown
 # 📄 Summarization Prompts
 
 ## Prompt 1: General Summary
